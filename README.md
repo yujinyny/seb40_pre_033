@@ -34,7 +34,6 @@ http://33stackoverflow.s3-website.ap-northeast-2.amazonaws.com/
 
 김예린|방혜민|임채영|홍유진
 :---:|:---:|:---:|:---:
-||||
 [yelinz515](https://github.com/yelinz515)|[youthmn](https://github.com/youthmn)|[Icyeong](https://github.com/Icyeong)|[yujinyny](https://github.com/yujinyny)
 
 ### Back-end
@@ -42,7 +41,6 @@ http://33stackoverflow.s3-website.ap-northeast-2.amazonaws.com/
 
 🏅 임원용|김은진|정희윤
 :---:|:---:|:---:
-||||
 [Im WonYong](https://github.com/ImWonYong)|[kim eunjin](https://github.com/2d3k)|[HuiYun](https://github.com/Tldkt)
 
 <br/>
